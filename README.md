@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=DCCdelang)](https://github.com/DCCdelang/github-readme-stats)
+
 <!--
 **DCCdelang/DCCdelang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
