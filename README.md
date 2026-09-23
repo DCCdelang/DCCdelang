@@ -2,8 +2,6 @@
 
 Outside of work, I am currently working on some personal projects. I keep track of my experiences on my blog hosted through Cloudflare.
 
-[![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=DCCdelang)](https://github.com/DCCdelang/github-readme-stats)
-
 <!--
 **DCCdelang/DCCdelang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
